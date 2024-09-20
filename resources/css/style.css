@@ -36,7 +36,7 @@ img{
 }
 .r4one img {
     width: 100%;
-    height: 105vh;
+    height: 90vh;
 }
 .r4two {
     margin-top: 15px;
@@ -49,13 +49,18 @@ img{
     width: 100%;
     height: 90%;
 }
-.r5two {
+/* .r5two {
     margin-top: 15px;
-}
+} */
 .r5two img {
-    height: 60%;
+    height: 55%;
     width: 100%;
 }
-.r4 {
-    height: 80%;
+.r5 {
+    height: 40vh;
+}
+
+h2{
+    font-family: Nakula;
+    text-align: center;
 }
